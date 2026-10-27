@@ -4,7 +4,7 @@ This file serves as the master metadata register mapping Algobox Scene IDs (`.ph
 *(Order is chronological.)*
 | Scene ID | Title | Author | Description | Filesize |
 | -------- | -------- | -------- | -------- | -------- |
-| `257596` | Short List of Rules - READ THEM! | Xray | This is an updated list of a few rules that get violated more often than most of the other Algobox rules. NOTES: Comments have been disabled. Enjoy Algodoo as I have for more than a decade. Xray, Algobox Admin and lover of science. | 113.35 kB |
+| `257596` | Short List of Rules - READ THEM! | Xray | This is an updated list of a few rules that get violated more often than most of the other Algobox rules.<br><br>NOTES: Comments have been disabled.<br><br>Enjoy Algodoo as I have for more than a decade.<br><br>Xray, Algobox Admin and lover of science. | 113.35 kB |
 
 ## Formatting Guidelines for Contributors
 When adding new entries to this index, please maintain the standard pipe-delimited Markdown table format:
